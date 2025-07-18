@@ -2,7 +2,7 @@
 
 📱 **SwiftUI製名刺読み取りアプリ**
 
-Vision Framework と Google Gemini API を活用した、名刺の自動読み取り・データ化アプリケーションです。
+Vision Framework と Google Gemini API を活用した、名刺の自動読み取りアプリケーションです。
 
 ## 🎯 機能
 
@@ -35,12 +35,7 @@ Vision Framework と Google Gemini API を活用した、名刺の自動読み�
 
 ### 1. Google Gemini API キー
 
-Google AI Studio でAPIキーを取得し、プロジェクトに設定してください。
-
-```swift
-// APIキーの設定方法
-let apiKey = "YOUR_GEMINI_API_KEY"
-```
+Google AI Studio でGenerativeAI-Info.plistを取得し、NameCardDemoフォルダー内に設置してください。
 
 ### 2. 権限設定
 
