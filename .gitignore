@@ -62,4 +62,6 @@ fastlane/screenshots/**/*.png
 fastlane/test_output
 
 .DS_Store
+**/.DS_Store
 NameCardDemo/GenerativeAI-Info.plist
+zenn/
